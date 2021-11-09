@@ -1,0 +1,1036 @@
+[
+    {
+        "poseidonId": -5435565478493840000,
+        "shortCat": "ARR",
+        "names": [
+            {
+                "firstName": "Kevin",
+                "middleName": "Charles",
+                "lastName": "Smith",
+                "suffix": null,
+                "tahoeId": null,
+                "ssn": null,
+                "nameHash": 54630131468066344,
+                "nameScore": 1001010.3333333334,
+                "sourceMap": "HYG",
+                "fullName": "Kevin Charles Smith"
+            }
+        ],
+        "offenderAttributes": [],
+        "photos": [
+            {
+                "sourceMap": "HYG",
+                "sourceState": "AL",
+                "photoName": "./Arrest/ARR_AL_SHELBY/325703_SMITHKEVINCHARLES.JPG",
+                "nameHashes": [
+                    54630131468066344
+                ]
+            }
+        ],
+        "addresses": [],
+        "caseDetails": [
+            {
+                "caseNumber": "",
+                "caseType": null,
+                "rawCategory": "ARREST",
+                "mappedCategory": "ARREST",
+                "nciCcode": null,
+                "source": "ALABAMA SHELBY COUNTY ARRESTS",
+                "courtType": null,
+                "court": null,
+                "courtCounty": "SHELBY",
+                "fees": null,
+                "fines": null,
+                "caseDate": "6/15/2020",
+                "sourceMap": "HYG"
+            }
+        ],
+        "offenses": [
+            {
+                "offenseCodes": null,
+                "photos": [
+                    "./Arrest/ARR_AL_SHELBY/325703_SMITHKEVINCHARLES.JPG"
+                ],
+                "offenseDescription": [
+                    "FAILURE TO APPEAR"
+                ],
+                "offenseDate": null,
+                "chargesFiledDate": null,
+                "sourceCounty": null,
+                "sourceState": "AL",
+                "convictionDate": null,
+                "convictionPlace": null,
+                "disposition": null,
+                "dispositionDate": null,
+                "sentenced": null,
+                "probationDate": null,
+                "sourceMap": "HYG",
+                "classificationCodeDescription": "Misdemeanor",
+                "classificationSubCodeDescription": null
+            }
+        ],
+        "others": [
+            {
+                "sourceMap": "hyg",
+                "columns": {
+                    "sourcetype": "HYG",
+                    "classificationcode": "M",
+                    "sourcename": "ALABAMA SHELBY COUNTY ARRESTS",
+                    "rawCategory": "ARREST",
+                    "arrestdate": "20200615",
+                    "comments": "INMATE NUMBER: 325703"
+                }
+            }
+        ],
+        "images": [
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/325703_smithkevincharles.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/bbe82004ef52d66fab5d1e0e56084cc1.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/bbe82004ef52d66fab5d1e0e56084cc1.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            }
+        ]
+    },
+    {
+        "poseidonId": -4722660244734247000,
+        "shortCat": "ARR",
+        "names": [
+            {
+                "firstName": "Kevin",
+                "middleName": "Scott",
+                "lastName": "Smith",
+                "suffix": null,
+                "tahoeId": null,
+                "ssn": null,
+                "nameHash": -8210055502344835000,
+                "nameScore": 1001009.6666666666,
+                "sourceMap": "HYG",
+                "fullName": "Kevin Scott Smith"
+            }
+        ],
+        "offenderAttributes": [],
+        "photos": [
+            {
+                "sourceMap": "HYG",
+                "sourceState": "AL",
+                "photoName": "./Arrest/ARR_AL_SHELBY/303869.JPG",
+                "nameHashes": [
+                    -8210055502344835000
+                ]
+            }
+        ],
+        "addresses": [],
+        "caseDetails": [
+            {
+                "caseNumber": "",
+                "caseType": null,
+                "rawCategory": "ARREST",
+                "mappedCategory": "ARREST",
+                "nciCcode": null,
+                "source": "ALABAMA SHELBY COUNTY ARRESTS",
+                "courtType": null,
+                "court": null,
+                "courtCounty": "SHELBY",
+                "fees": null,
+                "fines": null,
+                "caseDate": "7/10/2016",
+                "sourceMap": "HYG"
+            }
+        ],
+        "offenses": [
+            {
+                "offenseCodes": null,
+                "photos": [
+                    "./Arrest/ARR_AL_SHELBY/303869.JPG"
+                ],
+                "offenseDescription": [
+                    "DOMESTIC VIOLENCE 3RD: HARASSMENT"
+                ],
+                "offenseDate": null,
+                "chargesFiledDate": null,
+                "sourceCounty": null,
+                "sourceState": "AL",
+                "convictionDate": null,
+                "convictionPlace": null,
+                "disposition": null,
+                "dispositionDate": null,
+                "sentenced": null,
+                "probationDate": null,
+                "sourceMap": "HYG",
+                "classificationCodeDescription": "Other records not classified or coded",
+                "classificationSubCodeDescription": null
+            }
+        ],
+        "others": [
+            {
+                "sourceMap": "hyg",
+                "columns": {
+                    "sourcetype": "HYG",
+                    "classificationcode": "ZZZ",
+                    "sourcename": "ALABAMA SHELBY COUNTY ARRESTS",
+                    "rawCategory": "ARREST",
+                    "arrestdate": "20160710",
+                    "comments": "BOND AMOUNT: $2,000.00 INMATE NUMBER: 303869"
+                }
+            }
+        ],
+        "images": [
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/303869.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/ba21b7d038dd7b13eede9d43807527ea.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/ba21b7d038dd7b13eede9d43807527ea.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            },
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/303869.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/ba21b7d038dd7b13eede9d43807527ea.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/ba21b7d038dd7b13eede9d43807527ea.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            },
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/303869.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/ba21b7d038dd7b13eede9d43807527ea.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/ba21b7d038dd7b13eede9d43807527ea.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            }
+        ]
+    },
+    {
+        "poseidonId": 3567760374173078500,
+        "shortCat": "ARR",
+        "names": [
+            {
+                "firstName": "Kevin",
+                "middleName": "A",
+                "lastName": "Smith",
+                "suffix": null,
+                "tahoeId": null,
+                "ssn": null,
+                "nameHash": 1314696709928520200,
+                "nameScore": 1001007.3333333334,
+                "sourceMap": "HYG",
+                "fullName": "Kevin A Smith"
+            }
+        ],
+        "offenderAttributes": [],
+        "photos": [],
+        "addresses": [],
+        "caseDetails": [
+            {
+                "caseNumber": "",
+                "caseType": null,
+                "rawCategory": "ARREST",
+                "mappedCategory": "ARREST",
+                "nciCcode": null,
+                "source": "ALABAMA CALHOUN COUNTY ARRESTS",
+                "courtType": null,
+                "court": null,
+                "courtCounty": "CALHOUN",
+                "fees": null,
+                "fines": null,
+                "caseDate": "10/22/2010",
+                "sourceMap": "HYG"
+            }
+        ],
+        "offenses": [
+            {
+                "offenseCodes": null,
+                "photos": null,
+                "offenseDescription": [
+                    "REC. STOLEN PROPERTY 2ND"
+                ],
+                "offenseDate": null,
+                "chargesFiledDate": null,
+                "sourceCounty": null,
+                "sourceState": "AL",
+                "convictionDate": null,
+                "convictionPlace": null,
+                "disposition": null,
+                "dispositionDate": null,
+                "sentenced": null,
+                "probationDate": null,
+                "sourceMap": "HYG",
+                "classificationCodeDescription": "Other records not classified or coded",
+                "classificationSubCodeDescription": null
+            }
+        ],
+        "others": [
+            {
+                "sourceMap": "hyg",
+                "columns": {
+                    "sourcetype": "HYG",
+                    "classificationcode": "ZZZ",
+                    "sourcename": "ALABAMA CALHOUN COUNTY ARRESTS",
+                    "rawCategory": "ARREST",
+                    "arrestdate": "20101022"
+                }
+            }
+        ],
+        "images": []
+    },
+    {
+        "poseidonId": 7971019665905159000,
+        "shortCat": "ARR",
+        "names": [
+            {
+                "firstName": "Kevin",
+                "middleName": "Charles",
+                "lastName": "Smith",
+                "suffix": null,
+                "tahoeId": null,
+                "ssn": null,
+                "nameHash": 54630131468066344,
+                "nameScore": 1001010.3333333334,
+                "sourceMap": "HYG",
+                "fullName": "Kevin Charles Smith"
+            }
+        ],
+        "offenderAttributes": [],
+        "photos": [
+            {
+                "sourceMap": "HYG",
+                "sourceState": "AL",
+                "photoName": "./Arrest/ARR_AL_SHELBY/327183_SMITHKEVINCHARLES.JPG",
+                "nameHashes": [
+                    54630131468066344
+                ]
+            }
+        ],
+        "addresses": [],
+        "caseDetails": [
+            {
+                "caseNumber": "",
+                "caseType": null,
+                "rawCategory": "ARREST",
+                "mappedCategory": "ARREST",
+                "nciCcode": null,
+                "source": "ALABAMA SHELBY COUNTY ARRESTS",
+                "courtType": null,
+                "court": null,
+                "courtCounty": "SHELBY",
+                "fees": null,
+                "fines": null,
+                "caseDate": "10/8/2020",
+                "sourceMap": "HYG"
+            }
+        ],
+        "offenses": [
+            {
+                "offenseCodes": null,
+                "photos": [
+                    "./Arrest/ARR_AL_SHELBY/327183_SMITHKEVINCHARLES.JPG"
+                ],
+                "offenseDescription": [
+                    "POSSESSION OF DRUG PARAPHERNALIA;USE OR POSSESSION"
+                ],
+                "offenseDate": null,
+                "chargesFiledDate": null,
+                "sourceCounty": null,
+                "sourceState": "AL",
+                "convictionDate": null,
+                "convictionPlace": null,
+                "disposition": null,
+                "dispositionDate": null,
+                "sentenced": null,
+                "probationDate": null,
+                "sourceMap": "HYG",
+                "classificationCodeDescription": "Other records not classified or coded",
+                "classificationSubCodeDescription": null
+            }
+        ],
+        "others": [
+            {
+                "sourceMap": "hyg",
+                "columns": {
+                    "sourcetype": "HYG",
+                    "classificationcode": "ZZZ",
+                    "sourcename": "ALABAMA SHELBY COUNTY ARRESTS",
+                    "rawCategory": "ARREST",
+                    "arrestdate": "20201008",
+                    "comments": "BOND AMOUNT: $1,000.00 INMATE NUMBER: 327183"
+                }
+            }
+        ],
+        "images": [
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/327183_smithkevincharles.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/d85fb4ad10eb7703334035d7655e8e25.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/d85fb4ad10eb7703334035d7655e8e25.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            }
+        ]
+    },
+    {
+        "poseidonId": -4665639632435727000,
+        "shortCat": "ARR",
+        "names": [
+            {
+                "firstName": "Kevin",
+                "middleName": "Scott",
+                "lastName": "Smith",
+                "suffix": null,
+                "tahoeId": null,
+                "ssn": null,
+                "nameHash": -8210055502344835000,
+                "nameScore": 1001009.6666666666,
+                "sourceMap": "HYG",
+                "fullName": "Kevin Scott Smith"
+            }
+        ],
+        "offenderAttributes": [],
+        "photos": [
+            {
+                "sourceMap": "HYG",
+                "sourceState": "AL",
+                "photoName": "./Arrest/ARR_AL_SHELBY/316381.JPG",
+                "nameHashes": [
+                    -8210055502344835000
+                ]
+            }
+        ],
+        "addresses": [],
+        "caseDetails": [
+            {
+                "caseNumber": "",
+                "caseType": null,
+                "rawCategory": "ARREST",
+                "mappedCategory": "ARREST",
+                "nciCcode": null,
+                "source": "ALABAMA SHELBY COUNTY ARRESTS",
+                "courtType": null,
+                "court": null,
+                "courtCounty": "SHELBY",
+                "fees": null,
+                "fines": null,
+                "caseDate": "9/21/2018",
+                "sourceMap": "HYG"
+            }
+        ],
+        "offenses": [
+            {
+                "offenseCodes": null,
+                "photos": [
+                    "./Arrest/ARR_AL_SHELBY/316381.JPG"
+                ],
+                "offenseDescription": [
+                    "DISORDERLY CONDUCT"
+                ],
+                "offenseDate": null,
+                "chargesFiledDate": null,
+                "sourceCounty": null,
+                "sourceState": "AL",
+                "convictionDate": null,
+                "convictionPlace": null,
+                "disposition": null,
+                "dispositionDate": null,
+                "sentenced": null,
+                "probationDate": null,
+                "sourceMap": "HYG",
+                "classificationCodeDescription": "Misdemeanor",
+                "classificationSubCodeDescription": null
+            }
+        ],
+        "others": [
+            {
+                "sourceMap": "hyg",
+                "columns": {
+                    "sourcetype": "HYG",
+                    "classificationcode": "M",
+                    "sourcename": "ALABAMA SHELBY COUNTY ARRESTS",
+                    "rawCategory": "ARREST",
+                    "arrestdate": "20180921",
+                    "comments": "INMATE NUMBER: 316381"
+                }
+            }
+        ],
+        "images": [
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/316381.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/6ffe47f8d6a69aea869eb19e8161347c.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/6ffe47f8d6a69aea869eb19e8161347c.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            },
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/316381.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/6ffe47f8d6a69aea869eb19e8161347c.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/6ffe47f8d6a69aea869eb19e8161347c.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            },
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/316381.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/6ffe47f8d6a69aea869eb19e8161347c.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/6ffe47f8d6a69aea869eb19e8161347c.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            }
+        ]
+    },
+    {
+        "poseidonId": 592214190448275300,
+        "shortCat": "ARR",
+        "names": [
+            {
+                "firstName": "Kevin",
+                "middleName": "Charles",
+                "lastName": "Smith",
+                "suffix": null,
+                "tahoeId": null,
+                "ssn": null,
+                "nameHash": 54630131468066344,
+                "nameScore": 1001010.3333333334,
+                "sourceMap": "HYG",
+                "fullName": "Kevin Charles Smith"
+            }
+        ],
+        "offenderAttributes": [],
+        "photos": [
+            {
+                "sourceMap": "HYG",
+                "sourceState": "AL",
+                "photoName": "./Arrest/ARR_AL_SHELBY/325703_SMITHKEVINCHARLES.JPG",
+                "nameHashes": [
+                    54630131468066344
+                ]
+            }
+        ],
+        "addresses": [],
+        "caseDetails": [
+            {
+                "caseNumber": "",
+                "caseType": null,
+                "rawCategory": "ARREST",
+                "mappedCategory": "ARREST",
+                "nciCcode": null,
+                "source": "ALABAMA SHELBY COUNTY ARRESTS",
+                "courtType": null,
+                "court": null,
+                "courtCounty": "SHELBY",
+                "fees": null,
+                "fines": null,
+                "caseDate": "6/15/2020",
+                "sourceMap": "HYG"
+            }
+        ],
+        "offenses": [
+            {
+                "offenseCodes": null,
+                "photos": [
+                    "./Arrest/ARR_AL_SHELBY/325703_SMITHKEVINCHARLES.JPG"
+                ],
+                "offenseDescription": [
+                    "FAILURE TO APPEAR"
+                ],
+                "offenseDate": null,
+                "chargesFiledDate": null,
+                "sourceCounty": null,
+                "sourceState": "AL",
+                "convictionDate": null,
+                "convictionPlace": null,
+                "disposition": null,
+                "dispositionDate": null,
+                "sentenced": null,
+                "probationDate": null,
+                "sourceMap": "HYG",
+                "classificationCodeDescription": "Misdemeanor",
+                "classificationSubCodeDescription": null
+            }
+        ],
+        "others": [
+            {
+                "sourceMap": "hyg",
+                "columns": {
+                    "sourcetype": "HYG",
+                    "classificationcode": "M",
+                    "sourcename": "ALABAMA SHELBY COUNTY ARRESTS",
+                    "rawCategory": "ARREST",
+                    "arrestdate": "20200615",
+                    "comments": "INMATE NUMBER: 325703"
+                }
+            }
+        ],
+        "images": [
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/325703_smithkevincharles.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/bbe82004ef52d66fab5d1e0e56084cc1.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/bbe82004ef52d66fab5d1e0e56084cc1.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            }
+        ]
+    },
+    {
+        "poseidonId": 1154915440225444000,
+        "shortCat": "ARR",
+        "names": [
+            {
+                "firstName": "Kevin",
+                "middleName": "Charles",
+                "lastName": "Smith",
+                "suffix": null,
+                "tahoeId": null,
+                "ssn": null,
+                "nameHash": 54630131468066344,
+                "nameScore": 1001010.3333333334,
+                "sourceMap": "HYG",
+                "fullName": "Kevin Charles Smith"
+            }
+        ],
+        "offenderAttributes": [],
+        "photos": [
+            {
+                "sourceMap": "HYG",
+                "sourceState": "AL",
+                "photoName": "./Arrest/ARR_AL_SHELBY/320646.JPG",
+                "nameHashes": [
+                    54630131468066344
+                ]
+            }
+        ],
+        "addresses": [],
+        "caseDetails": [
+            {
+                "caseNumber": "",
+                "caseType": null,
+                "rawCategory": "ARREST",
+                "mappedCategory": "ARREST",
+                "nciCcode": null,
+                "source": "ALABAMA SHELBY COUNTY ARRESTS",
+                "courtType": null,
+                "court": null,
+                "courtCounty": "SHELBY",
+                "fees": null,
+                "fines": null,
+                "caseDate": "6/10/2019",
+                "sourceMap": "HYG"
+            }
+        ],
+        "offenses": [
+            {
+                "offenseCodes": null,
+                "photos": [
+                    "./Arrest/ARR_AL_SHELBY/320646.JPG"
+                ],
+                "offenseDescription": [
+                    "UNLAWFUL POSS/REC CONTROLLED SUBSTANCE"
+                ],
+                "offenseDate": null,
+                "chargesFiledDate": null,
+                "sourceCounty": null,
+                "sourceState": "AL",
+                "convictionDate": null,
+                "convictionPlace": null,
+                "disposition": null,
+                "dispositionDate": null,
+                "sentenced": null,
+                "probationDate": null,
+                "sourceMap": "HYG",
+                "classificationCodeDescription": "Felony or Misdemeanor",
+                "classificationSubCodeDescription": null
+            }
+        ],
+        "others": [
+            {
+                "sourceMap": "hyg",
+                "columns": {
+                    "sourcetype": "HYG",
+                    "classificationcode": "FM",
+                    "sourcename": "ALABAMA SHELBY COUNTY ARRESTS",
+                    "rawCategory": "ARREST",
+                    "arrestdate": "20190610",
+                    "comments": "BOND AMOUNT: $5,000.00 INMATE NUMBER: 320646"
+                }
+            }
+        ],
+        "images": [
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/320646.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/3b3dd52d76cf8db50ba0fc704aa85c78.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/3b3dd52d76cf8db50ba0fc704aa85c78.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            },
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/320646.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/3b3dd52d76cf8db50ba0fc704aa85c78.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/3b3dd52d76cf8db50ba0fc704aa85c78.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            },
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/320646.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/3b3dd52d76cf8db50ba0fc704aa85c78.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/3b3dd52d76cf8db50ba0fc704aa85c78.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            }
+        ]
+    },
+    {
+        "poseidonId": 5685068138732146000,
+        "shortCat": "ARR",
+        "names": [
+            {
+                "firstName": "Kevin",
+                "middleName": "Charles",
+                "lastName": "Smith",
+                "suffix": null,
+                "tahoeId": null,
+                "ssn": null,
+                "nameHash": 54630131468066344,
+                "nameScore": 1001010.3333333334,
+                "sourceMap": "HYG",
+                "fullName": "Kevin Charles Smith"
+            }
+        ],
+        "offenderAttributes": [],
+        "photos": [
+            {
+                "sourceMap": "HYG",
+                "sourceState": "AL",
+                "photoName": "./Arrest/ARR_AL_SHELBY/313275.JPG",
+                "nameHashes": [
+                    54630131468066344
+                ]
+            }
+        ],
+        "addresses": [],
+        "caseDetails": [
+            {
+                "caseNumber": "",
+                "caseType": null,
+                "rawCategory": "ARREST",
+                "mappedCategory": "ARREST",
+                "nciCcode": null,
+                "source": "ALABAMA SHELBY COUNTY ARRESTS",
+                "courtType": null,
+                "court": null,
+                "courtCounty": "SHELBY",
+                "fees": null,
+                "fines": null,
+                "caseDate": "3/15/2018",
+                "sourceMap": "HYG"
+            }
+        ],
+        "offenses": [
+            {
+                "offenseCodes": null,
+                "photos": [
+                    "./Arrest/ARR_AL_SHELBY/313275.JPG"
+                ],
+                "offenseDescription": [
+                    "POSSESSION OF DRUG PARAPHERNALIA;USE OR POSSESSION"
+                ],
+                "offenseDate": null,
+                "chargesFiledDate": null,
+                "sourceCounty": null,
+                "sourceState": "AL",
+                "convictionDate": null,
+                "convictionPlace": null,
+                "disposition": null,
+                "dispositionDate": null,
+                "sentenced": null,
+                "probationDate": null,
+                "sourceMap": "HYG",
+                "classificationCodeDescription": "Other records not classified or coded",
+                "classificationSubCodeDescription": null
+            }
+        ],
+        "others": [
+            {
+                "sourceMap": "hyg",
+                "columns": {
+                    "sourcetype": "HYG",
+                    "classificationcode": "ZZZ",
+                    "sourcename": "ALABAMA SHELBY COUNTY ARRESTS",
+                    "rawCategory": "ARREST",
+                    "arrestdate": "20180315",
+                    "comments": "INMATE NUMBER: 313275"
+                }
+            }
+        ],
+        "images": [
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/313275.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/267bf0954f2d574ed221da0a4e02afc6.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/267bf0954f2d574ed221da0a4e02afc6.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            },
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/313275.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/267bf0954f2d574ed221da0a4e02afc6.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/267bf0954f2d574ed221da0a4e02afc6.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            },
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/313275.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/267bf0954f2d574ed221da0a4e02afc6.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/267bf0954f2d574ed221da0a4e02afc6.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            }
+        ]
+    },
+    {
+        "poseidonId": -5546789861116044000,
+        "shortCat": "ARR",
+        "names": [
+            {
+                "firstName": "Kevin",
+                "middleName": "Charles",
+                "lastName": "Smith",
+                "suffix": null,
+                "tahoeId": null,
+                "ssn": null,
+                "nameHash": 54630131468066344,
+                "nameScore": 1001010.3333333334,
+                "sourceMap": "HYG",
+                "fullName": "Kevin Charles Smith"
+            }
+        ],
+        "offenderAttributes": [],
+        "photos": [
+            {
+                "sourceMap": "HYG",
+                "sourceState": "AL",
+                "photoName": "./Arrest/ARR_AL_SHELBY/325703_SMITHKEVINCHARLES.JPG",
+                "nameHashes": [
+                    54630131468066344
+                ]
+            }
+        ],
+        "addresses": [],
+        "caseDetails": [
+            {
+                "caseNumber": "",
+                "caseType": null,
+                "rawCategory": "ARREST",
+                "mappedCategory": "ARREST",
+                "nciCcode": null,
+                "source": "ALABAMA SHELBY COUNTY ARRESTS",
+                "courtType": null,
+                "court": null,
+                "courtCounty": "SHELBY",
+                "fees": null,
+                "fines": null,
+                "caseDate": "6/15/2020",
+                "sourceMap": "HYG"
+            }
+        ],
+        "offenses": [
+            {
+                "offenseCodes": null,
+                "photos": [
+                    "./Arrest/ARR_AL_SHELBY/325703_SMITHKEVINCHARLES.JPG"
+                ],
+                "offenseDescription": [
+                    "ALIAS WRIT OF ARREST"
+                ],
+                "offenseDate": null,
+                "chargesFiledDate": null,
+                "sourceCounty": null,
+                "sourceState": "AL",
+                "convictionDate": null,
+                "convictionPlace": null,
+                "disposition": null,
+                "dispositionDate": null,
+                "sentenced": null,
+                "probationDate": null,
+                "sourceMap": "HYG",
+                "classificationCodeDescription": "Other records not classified or coded",
+                "classificationSubCodeDescription": null
+            }
+        ],
+        "others": [
+            {
+                "sourceMap": "hyg",
+                "columns": {
+                    "sourcetype": "HYG",
+                    "classificationcode": "ZZZ",
+                    "sourcename": "ALABAMA SHELBY COUNTY ARRESTS",
+                    "rawCategory": "ARREST",
+                    "arrestdate": "20200615",
+                    "comments": "INMATE NUMBER: 325703"
+                }
+            }
+        ],
+        "images": [
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/325703_smithkevincharles.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/bbe82004ef52d66fab5d1e0e56084cc1.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/bbe82004ef52d66fab5d1e0e56084cc1.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            }
+        ]
+    },
+    {
+        "poseidonId": -4168680467394246000,
+        "shortCat": "ARR",
+        "names": [
+            {
+                "firstName": "Kevin",
+                "middleName": "Charles",
+                "lastName": "Smith",
+                "suffix": null,
+                "tahoeId": null,
+                "ssn": null,
+                "nameHash": 54630131468066344,
+                "nameScore": 1001010.3333333334,
+                "sourceMap": "HYG",
+                "fullName": "Kevin Charles Smith"
+            }
+        ],
+        "offenderAttributes": [],
+        "photos": [
+            {
+                "sourceMap": "HYG",
+                "sourceState": "AL",
+                "photoName": "./Arrest/ARR_AL_SHELBY/325703_SMITHKEVINCHARLES.JPG",
+                "nameHashes": [
+                    54630131468066344
+                ]
+            }
+        ],
+        "addresses": [],
+        "caseDetails": [
+            {
+                "caseNumber": "",
+                "caseType": null,
+                "rawCategory": "ARREST",
+                "mappedCategory": "ARREST",
+                "nciCcode": null,
+                "source": "ALABAMA SHELBY COUNTY ARRESTS",
+                "courtType": null,
+                "court": null,
+                "courtCounty": "SHELBY",
+                "fees": null,
+                "fines": null,
+                "caseDate": "6/15/2020",
+                "sourceMap": "HYG"
+            }
+        ],
+        "offenses": [
+            {
+                "offenseCodes": null,
+                "photos": [
+                    "./Arrest/ARR_AL_SHELBY/325703_SMITHKEVINCHARLES.JPG"
+                ],
+                "offenseDescription": [
+                    "ALIAS WRIT OF ARREST"
+                ],
+                "offenseDate": null,
+                "chargesFiledDate": null,
+                "sourceCounty": null,
+                "sourceState": "AL",
+                "convictionDate": null,
+                "convictionPlace": null,
+                "disposition": null,
+                "dispositionDate": null,
+                "sentenced": null,
+                "probationDate": null,
+                "sourceMap": "HYG",
+                "classificationCodeDescription": "Other records not classified or coded",
+                "classificationSubCodeDescription": null
+            }
+        ],
+        "others": [
+            {
+                "sourceMap": "hyg",
+                "columns": {
+                    "sourcetype": "HYG",
+                    "classificationcode": "ZZZ",
+                    "sourcename": "ALABAMA SHELBY COUNTY ARRESTS",
+                    "rawCategory": "ARREST",
+                    "arrestdate": "20200615",
+                    "comments": "INMATE NUMBER: 325703"
+                }
+            }
+        ],
+        "images": [
+            {
+                "imageBase64": null,
+                "imageFileName": "./Arrest/ARR_AL_SHELBY/325703_smithkevincharles.jpg",
+                "imageFileType": "",
+                "imageUrl": "http://crim-images.galaxysearchapi.com/2/m/i/bbe82004ef52d66fab5d1e0e56084cc1.jpg",
+                "thumbUrl": "http://crim-images.galaxysearchapi.com/2/m/t/bbe82004ef52d66fab5d1e0e56084cc1.jpg",
+                "picWidth": 0,
+                "picHeight": 0,
+                "thumbWidth": 0,
+                "thumHeight": 0
+            }
+        ]
+    }
+]
